@@ -1,7 +1,7 @@
 # DHRNet
 DHRNet aims to generate different scale-sensitive weights (a parallel multi-branch architecture and add a soft conditional gate module) during feature fusion in HRNet thus improving the performance across different scales consistently on Citypersons.
 
-
+https://github.com/dmy1997/DHRNet/blob/master/imgs/pipeline.PNG
 
 
 ## Core files
