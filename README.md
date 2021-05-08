@@ -1,5 +1,5 @@
 # DHRNet
-DHRNet aims to generate different scale-sensitive weights (a parallel multi-branch architecture and add a soft conditional gate module) during feature fusion in HRNet thus improving the performance across different scales consistently on Citypersons.
+DHRNet aims to generate different scale-sensitive weights (a parallel multi-branch architecture with a soft conditional gate module) during feature fusion in HRNet, thus consistently improving the performance across different scales on Citypersons.
 
 ![pipeline.png](https://github.com/dmy1997/DHRNet/blob/master/imgs/pipeline.PNG)
 
@@ -16,7 +16,7 @@ Backbone: [DHRNet](https://github.com/dmy1997/DHRNet/blob/master/mmdet/models/ba
 @article{mmdetection,
   title   = {Learning a Dynamic High-Resolution Network for Multi-Scale Pedestrian Detection.},
   author  = {Mengyuan Ding, Shanshan Zhang, Jian Yang.},
-  journal= {International Conference on Pattern Recognition (ICPR)},
+  journal = {International Conference on Pattern Recognition(ICPR)},
   year={2020}
 }
 ```
