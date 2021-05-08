@@ -1,4 +1,6 @@
-# MMDetection
+The code base of our work is MMDetection. (Here is MMDetection-1.2.0)
+
+The config file is 
 
 **News**: We released the technical report on [ArXiv](https://arxiv.org/abs/1906.07155).
 
