@@ -13,7 +13,7 @@ Backbone: [DHRNet](https://github.com/dmy1997/DHRNet/blob/master/mmdet/models/ba
 ### Citation
 
 ```
-@article{mmdetection,
+@article{DHRNet,
   title   = {Learning a Dynamic High-Resolution Network for Multi-Scale Pedestrian Detection.},
   author  = {Mengyuan Ding, Shanshan Zhang, Jian Yang.},
   journal = {International Conference on Pattern Recognition(ICPR)},
